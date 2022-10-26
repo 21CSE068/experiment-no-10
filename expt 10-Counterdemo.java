@@ -29,7 +29,7 @@ public class Counterdemo extends JFrame implements ActionListener {
          repaint();
       } 
    }
-   
+  
    public static void main(String[] args) {
       new Counterdemo();
    }
